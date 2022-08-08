@@ -1,0 +1,8 @@
+{
+  "name": "Hacketon",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "bc3832b7"
+}
